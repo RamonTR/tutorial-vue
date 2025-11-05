@@ -82,25 +82,7 @@ main form{
     text-align: left;
 }
 
-.destino {
-    text-align: center;
-    width: 30%;
-}
 
-.destino h3 {
-    color: #0056b3; /* Azul más oscuro para los subtítulos */
-}
-
-.destino aside{
-    display: flex;
-    width: 25%;
-}
-.destino img {
-    width: 100%;
-    height: auto;
-    border-radius: 10px;
-    border: 2px solid #007bff; /* Bordes azules para las imágenes */
-}
 
 /* Pie de página */
 footer {
@@ -111,13 +93,6 @@ footer {
     /*position: fixed;*/
     bottom: 0;
     width: 100%;
-}
-/*estilos para login*/
-.inputlogin{
-    margin-top: 10px;
-    margin-bottom: 5px;
-    padding: 5px;
-    border-radius: 10px;
 }
 
 .inicioprincipal{
